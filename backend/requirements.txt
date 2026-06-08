@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+pinecone-client
+pypdf
+python-dotenv
+requests
+sentence-transformers
